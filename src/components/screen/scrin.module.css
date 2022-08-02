@@ -1,0 +1,7 @@
+.screen {
+    width: 1366px;
+    height: 768px;
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    position: relative;
+}
